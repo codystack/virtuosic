@@ -1,5 +1,5 @@
-<!-- footer -->
-<footer class="py-15 py-xl-10 bg-black inverted">
+  <!-- footer -->
+  <footer class="py-15 py-xl-10 bg-black inverted">
     <div class="container">
       <div class="row g-4 g-lg-5 mb-10">
         <div class="col-md-3 text-center text-md-start">
@@ -29,22 +29,19 @@
         </div>
       </div>
       <div class="row align-items-center g-1 g-lg-6 text-muted">
-        <div class="col-md-6 col-lg-4 order-lg-2 text-center text-md-start">
+        <div class="col-md-6 col-lg-6 order-lg-3 text-center text-md-end">
           <ul class="list-inline small">
             <li class="list-inline-item"><a href="" class="text-reset text-primary-hover">facebook</a></li>
             <li class="list-inline-item ms-1"><a href="" class="text-reset text-primary-hover">twitter</a></li>
             <li class="list-inline-item ms-1"><a href="" class="text-reset text-primary-hover">linkedin</a></li>
           </ul>
         </div>
-        <div class="col-md-6 col-lg-4 text-center text-md-end order-lg-3">
-          <span class="small">2569 Rue Tillemont Montreal</span>
-        </div>
-        <div class="col-lg-4 order-lg-1 text-center text-md-start">
+        <div class="col-lg-6 order-lg-1 text-center text-md-start">
           <p class="small">© <script>document.write(new Date().getFullYear());</script> All Rights Reserved.</p>
         </div>
       </div>
     </div>
-</footer>
+  </footer>
 
     <script src="assets/js/vendor.js"></script>
     <script src="assets/js/index.js"></script>

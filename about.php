@@ -5,110 +5,102 @@ include "./components/navbarlight.php";
 
     <div class="offcanvas-wrap">
 
-        <section class="overflow-hidden py-15 py-xl-20">
-        <div class="container">
-            <div class="row align-items-end mb-10 mt-5">
-            <div class="col-lg-8">
-                <h1>Passion Combined With Experience.</h1>
+        <section class="overflow-hidden py-9 py-xl-20">
+            <div class="container">
+                <div class="row align-items-end mb-10 mt-5">
+                    <div class="col-lg-8">
+                        <h1>Passion Combined With Experience.</h1>
+                    </div>
+                    <div class="col-lg-4 text-lg-end">
+                        <p class="fs-lg text-muted mb-1">Trusted by <span class="text-black">10k+</span> <span
+                            class="d-block">customers
+                            worldwide</span></p>
+                    </div>
+                </div>
             </div>
-            <div class="col-lg-4 text-lg-end">
-                <p class="fs-lg text-muted mb-1">Trusted by <span class="text-black">250k+</span> <span
-                    class="d-block">customers
-                    worldwide</span></p>
+            <div class="container gallery-1" data-aos="fade-up">
+                <div class="row flex-nowrap align-items-end g-2 g-xl-5 mb-2 mb-xl-5"
+                data-bottom-top="transform: translateX(-25%)" data-top-bottom="transform: translateX(-40%)">
+                    <div class="col-6 col-lg-5">
+                        <figure class="media equal equal-16-10 media-image" 
+                        data-bp='{"imgSrc": "assets/images/about/1.jpg" , "parentGalleryClass": "gallery-1" }' >
+                        <span  style="background-image: url('assets/images/about/1.jpg')">
+                        </span>
+                        </figure>
+                    </div>
+
+                    <div class="col-6 col-lg-5">
+                        <figure class="media equal equal-16-10 media-image" 
+                        data-bp='{"imgSrc": "assets/images/about/2.jpg" , "parentGalleryClass": "gallery-1" }' >
+                        <span  style="background-image: url('assets/images/about/2.jpg')">
+                        </span>
+                        </figure>
+                    </div>
+
+                    <div class="col-6 col-lg-5">
+                        <figure class="media equal equal-16-10 media-image" 
+                        data-bp='{"imgSrc": "assets/images/about/3.jpg" , "parentGalleryClass": "gallery-1" }' >
+                        <span  style="background-image: url('assets/images/about/3.jpg')">
+                        </span>
+                        </figure>
+                    </div>
+
+                    <div class="col-6 col-lg-5">
+                        <figure class="media equal equal-16-10 media-image" 
+                        data-bp='{"imgSrc": "assets/images/about/1.jpg" , "parentGalleryClass": "gallery-1" }' >
+                        <span  style="background-image: url('assets/images/about/1.jpg')">
+                        </span>
+                        </figure>
+                    </div>
+                </div>
+                <div class="row flex-nowrap align-items-start g-2 g-xl-5" data-bottom-top="transform: translateX(-50%)"
+                data-top-bottom="transform: translateX(-35%)">
+                    <div class="col-6 col-lg-5">
+                        <figure class="media equal equal-16-10 media-image" 
+                        data-bp='{"imgSrc": "assets/images/about/5.jpg" , "parentGalleryClass": "gallery-1" }' >
+                        <span  style="background-image: url('assets/images/about/5.jpg')">
+                        </span>
+                        </figure>
+                    </div>
+
+                    <div class="col-6 col-lg-5">
+                        <figure class="media equal equal-16-10 media-image" 
+                        data-bp='{"imgSrc": "assets/images/about/4.jpg" , "parentGalleryClass": "gallery-1" }' >
+                        <span  style="background-image: url('assets/images/about/4.jpg')">
+                        </span>
+                        </figure>
+                    </div>
+
+                    <div class="col-6 col-lg-5">
+                        <figure class="media equal equal-16-10 media-image" 
+                        data-bp='{"imgSrc": "assets/images/about/6.jpg" , "parentGalleryClass": "gallery-1" }' >
+                        <span  style="background-image: url('assets/images/about/6.jpg')">
+                        </span>
+                        </figure>
+                    </div>
+
+                    <div class="col-6 col-lg-5">
+                        <figure class="media equal equal-16-10 media-image" 
+                        data-bp='{"imgSrc": "assets/images/about/7.jpg" , "parentGalleryClass": "gallery-1" }' >
+                        <span  style="background-image: url('assets/images/about/7.jpg')">
+                        </span>
+                        </figure>
+                    </div>
+
+                    <div class="col-6 col-lg-5">
+                        <figure class="media equal equal-16-10 media-image" 
+                        data-bp='{"imgSrc": "assets/images/about/8.jpg" , "parentGalleryClass": "gallery-1" }' >
+                        <span  style="background-image: url('assets/images/about/8.jpg')">
+                        </span>
+                        </figure>
+                    </div>
+                </div>
             </div>
-            </div>
-        </div>
-        <div class="container gallery-1" data-aos="fade-up">
-            <div class="row flex-nowrap align-items-end g-2 g-xl-5 mb-2 mb-xl-5"
-            data-bottom-top="transform: translateX(-25%)" data-top-bottom="transform: translateX(-40%)">
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-1.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-1.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-2.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-2.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-3.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-3.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-4.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-4.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-5.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-5.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-6.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-6.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-7.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-7.jpg')">
-                </span>
-                </figure>          </div>
-            </div>
-            <div class="row flex-nowrap align-items-start g-2 g-xl-5" data-bottom-top="transform: translateX(-50%)"
-            data-top-bottom="transform: translateX(-35%)">
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-8.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-8.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-4.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-4.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-5.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-5.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-6.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-6.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-7.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-7.jpg')">
-                </span>
-                </figure>          </div>
-            <div class="col-6 col-lg-5">
-                <figure class="media equal equal-16-10 media-image" 
-                data-bp='{"imgSrc": "./assets/images/small-8.jpg" , "parentGalleryClass": "gallery-1" }' >
-                <span  style="background-image: url('https://cube.webuildthemes.com/assets/images/small-8.jpg')">
-                </span>
-                </figure>          </div>
-            </div>
-        </div>
         </section>
 
 
         <!-- about -->
-        <section class="pb-15 pb-xl-20">
+        <section class="pb-9 pb-xl-20">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10">
@@ -124,60 +116,55 @@ include "./components/navbarlight.php";
 
 
 
-        <!-- team -->
-        <section class="py-15 py-xl-20 bg-light overflow-hidden">
-        <div class="container">
-            <div class="row mb-10">
-            <div class="col-lg-8">
-                <h2>Our Team</h2>
-            </div>
-            </div>
-            <div class="row g-3 g-xl-5">
-            <div class="col-md-6 col-lg-4">
-                <div class="card">
-                <div class="equal-1-1 mb-2">
-                    <figure class="background" style="background-image: url('https://cube.webuildthemes.com/assets/images/users/user-1.jpg')">
-                    </figure>
+        <section class="bg-black mx-xl-3 mb-15">
+            <div class="container pb-15 py-15 pb-10 py-xl-20 level-3">
+                <div class="row">
+                    <div class="col-lg-6 inverted">
+                        <h2 class="fw-bold">Connect with a Growth Advisor</h2>
+                        <p>A Growth Advisor’s primary role is to help you grow. In addition to strategy and planning, that means optimizing customer acquisition costs and saving money – while ensuring the efficacy of every initiative undertaken.</p>
+                        <ul class="list-group list-group-minimal">
+                            <li class="list-group-item d-flex align-items-center">
+                                <div class="icon-box icon-box-sm bg-opaque-white rounded-circle me-2"><i
+                                    class="bi bi-check2 text-white"></i>
+                                </div>
+                                Companies that don’t have the need for a full-time senior level marketing professional
+                            </li>
+                            <li class="list-group-item d-flex align-items-center">
+                                <div class="icon-box icon-box-sm bg-opaque-white rounded-circle me-2"><i
+                                    class="bi bi-check2 text-white"></i>
+                                </div>
+                                Companies that need someone to nurture and support an internal junior team
+                            </li>
+                            <li class="list-group-item d-flex align-items-center">
+                                <div class="icon-box icon-box-sm bg-opaque-white rounded-circle me-2"><i
+                                    class="bi bi-check2 text-white"></i>
+                                </div>
+                                Companies that have struggled to find cohesion or momentum in past brand and marketing initiatives
+                            </li>
+
+                            <li class="list-group-item d-flex align-items-center">
+                                <div class="icon-box icon-box-sm bg-opaque-white rounded-circle me-2"><i
+                                    class="bi bi-check2 text-white"></i>
+                                </div>
+                                Companies that need a dedicated insider, not an agency order taker
+                            </li>
+                        </ul>
+                    </div>
                 </div>
-                <h4 class="card-title">Michael Doe</h4>
-                <span class="text-secondary">Senior Designer at Google</span>
+            </div>
+            <div class="container-fluid back back-static">
+                <div class="row justify-content-end h-100">
+                    <div class="col-lg-6 overflow-hidden position-relative">
+                        <figure class="background background-parallax"
+                        style="background-image: url('assets/images/about/connectimg.jpg')"
+                        data-bottom-top="transform: translateY(0%);" data-top-bottom="transform: translateY(20%);">
+                        </figure>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="equal-1-1 mb-2">
-                <figure class="background" style="background-image: url('https://cube.webuildthemes.com/assets/images/users/user-2.jpg')">
-                </figure>
-                </div>
-                <h4 class="fs-5 mb-0">Michael Doe</h4>
-                <span class="text-secondary">Senior Designer at Google</span>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="equal-1-1 equal-3-4 mb-2">
-                <figure class="background" style="background-image: url('https://cube.webuildthemes.com/assets/images/users/user-3.jpg')">
-                </figure>
-                </div>
-                <h4 class="fs-5 mb-0">Michael Doe</h4>
-                <span class="text-secondary">Senior Designer at Google</span>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="equal-1-1 mb-2">
-                <figure class="background" style="background-image: url('https://cube.webuildthemes.com/assets/images/users/user-4.jpg')">
-                </figure>
-                </div>
-                <h4 class="fs-5 mb-0">Michael Doe</h4>
-                <span class="text-secondary">Senior Designer at Google</span>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="equal-1-1 equal-3-4 mb-2">
-                <figure class="background" style="background-image: url('https://cube.webuildthemes.com/assets/images/users/user-5.jpg')">
-                </figure>
-                </div>
-                <h4 class="fs-5 mb-0">Michael Doe</h4>
-                <span class="text-secondary">Senior Designer at Google</span>
-            </div>
-            </div>
-        </div>
         </section>
+
+        <?php include "./components/cta.php";?>
 
     </div>
 

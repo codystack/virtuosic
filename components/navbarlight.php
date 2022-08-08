@@ -42,10 +42,10 @@
                                 </div>
                             </div>
                             <div class="col-12">
-                                <a href="https://themes.getbootstrap.com/product/cube-multipurpose-template-ui-kit/"
+                                <a href="quote"
                                     class="card card-arrow inverted bg-black">
                                     <div class="card-footer mt-auto">
-                                    <h4 class="lead lh-3 fw-light">Buy Cube</h4>
+                                    <h4 class="lead lh-3 fw-light">Get Quote</h4>
                                     </div>
                                 </a>
                             </div>
@@ -57,9 +57,8 @@
                     <a class="nav-link" href="contact">Contact</a>
                 </li>
 
-                <li class="nav-item d-lg-none">
-                    <a href="https://themes.getbootstrap.com/product/cube-multipurpose-template-ui-kit/"
-                    class="nav-link text-primary">Buy Cube</a>
+                <li class="nav-item d-lg-none pt-5">
+                    <a href="quote" class="nav-link btn btn-outline-black">Get Quote</a>
                 </li>
             </ul>
         </div>
