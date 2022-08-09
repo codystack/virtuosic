@@ -1,4 +1,5 @@
 <?php
+$page = "About";
 include "./components/header.php";
 include "./components/navbarlight.php";
 ?>
@@ -104,7 +105,7 @@ include "./components/navbarlight.php";
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10">
-                        <span class="eyebrow text-primary mb-4">About Us</span>
+                        <span class="eyebrow text-red mb-4">About Us</span>
                         <h3 class="fs-4">A Growth Company</h3>
                         <p>Virtuosic Agency specializes in process of conceptualizing and creation of Ideas to commercializing the idea as a final service or a product, building brands and achieving ambitions over time.</p>
                         <p>Virtuosic Agency is equipped with tactical skills of dealing under any kind of situation as they have developed a business solutions and architecture. Virtuosic Agency finds the perfect story and communicates it powerfully; he knows that it takes the right strategy, message, and channel to reach your precise audience. When establishing your unique brand identity.</p>

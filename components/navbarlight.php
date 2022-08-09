@@ -23,7 +23,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="about">About Us</a>
+                    <a class="nav-link <?php if($page=='About'){echo 'active';}?>" href="about">About Us</a>
                 </li>
 
                 <li class="nav-item dropdown dropdown-hover">
