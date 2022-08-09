@@ -32,7 +32,7 @@
                         <div class="row g-0">
                             <div class="col-6">
                                 <div class="p-4">
-                                    <a class="dropdown-item <?php if($page=='Social'){echo 'active';}?>" href="social-media-marketing">Social Media Marketing</a>
+                                    <a class="dropdown-item <?php if($page=='Social'){echo 'active';}?>" href="social-media-management">Social Media Management</a>
                                     <a class="dropdown-item <?php if($page=='Public'){echo 'active';}?>" href="public-corporate-relations">Public & Corporate Relations</a>
                                     <a class="dropdown-item <?php if($page=='Web'){echo 'active';}?>" href="web-design-development">Web Design/Development</a>
                                     <a class="dropdown-item <?php if($page=='Branding'){echo 'active';}?>" href="branding-advertising">Branding And Advertising</a>

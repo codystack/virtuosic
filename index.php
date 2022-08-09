@@ -180,10 +180,10 @@ include "./components/navbarlight.php";
             </div>
             <div class="row g-2 g-lg-5">
                 <div class="col-md-6 col-lg-4" data-aos="fade-up">
-                    <a href="social-media-marketing" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
+                    <a href="social-media-management" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
                         <div class="card-wrap">
                             <div class="card-footer text-shadow mt-auto">
-                                <h5 class="mb-0">Social Media Marketing</h5>
+                                <h5 class="mb-0">Social Media Management</h5>
                                 <span class="text-white">We analyzing the social media audiences of our clients and develop strategies that is tailored to them.</span>
                             </div>
                         </div>
@@ -193,7 +193,7 @@ include "./components/navbarlight.php";
                 </div>
                 
                 <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
-                    <a href="" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
+                    <a href="public-corporate-relations" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
                         <div class="card-wrap">
                             <div class="card-footer text-shadow mt-auto">
                                 <h5 class="mb-0">Public & Corporate Relations</h5>
@@ -206,7 +206,7 @@ include "./components/navbarlight.php";
                 </div>
                 
                 <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                    <a href="" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
+                    <a href="web-design-development" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
                         <div class="card-wrap">
                             <div class="card-footer text-shadow mt-auto">
                                 <h5 class="mb-0">Web Design/Development</h5>
@@ -219,7 +219,7 @@ include "./components/navbarlight.php";
                 </div>
 
                 <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                    <a href="" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
+                    <a href="content-creation" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
                         <div class="card-wrap">
                             <div class="card-footer text-shadow mt-auto">
                                 <h5 class="mb-0">Content Creation</h5>
@@ -232,7 +232,7 @@ include "./components/navbarlight.php";
                 </div>
 
                 <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                    <a href="" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
+                    <a href="brand-activation" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
                         <div class="card-wrap">
                             <div class="card-footer text-shadow mt-auto">
                                 <h5 class="mb-0">Brand Activation</h5>
@@ -244,7 +244,7 @@ include "./components/navbarlight.php";
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                    <a href="" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
+                    <a href="email-marketing" class="card card-hover-gradient inverted equal-1-1 equal-lg-3-4">
                         <div class="card-wrap">
                             <div class="card-footer text-shadow mt-auto">
                                 <h5 class="mb-0">Email Marketing</h5>

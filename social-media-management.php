@@ -8,7 +8,7 @@ include "./components/navbardark.php";
         <div class="container mt-10 level-3">
             <div class="row">
                 <div class="col-md-10 col-lg-8">
-                    <h1 class="display-2 font-weight-bold">Social Media Marketing</h1>
+                    <h1 class="display-2 font-weight-bold">Social Media Management</h1>
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@ include "./components/navbardark.php";
                     <span class="background" style="background-image: url('assets/images/services/social.jpg')"></span>
                 </div>
                 <div class="col-lg-6 p-4 p-md-10 order-lg-1">
-                    <h3 class="fw-bold">Social Media Marketing</h3>
+                    <h3 class="fw-bold">Social Media Management</h3>
                     <p class="fs-lg text-secondary">we analyze the social media audiences of our clients and develop strategies that is tailored to them.</p>
                     <p class="fs-lg text-secondary">We create and distribute content for their social media profiles, monitoring online conversations, providing community service, and monitoring, measuring, and reporting on social media performance and ROI</p>
                     <a href="quote" class="btn btn-black btn-with-icon rounded-pill mt-3">Request Quote Now <i class="bi bi-arrow-right"></i></a>

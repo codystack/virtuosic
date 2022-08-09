@@ -1,5 +1,4 @@
 <?php
-$page = "About";
 include "./components/header.php";
 include "./components/navbarlight.php";
 ?>
