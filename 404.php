@@ -9,6 +9,7 @@
   <link rel="shortcut icon" href="assets/images/virtfavicon.png" type="image/x-icon" />
   <link rel="stylesheet" href="assets/css/lib.css" />
   <link rel="stylesheet" href="assets/css/styles.css" />
+  <link rel="stylesheet" href="assets/font/stylesheet.css" />
 
   <title>404</title>
 </head>

@@ -23,7 +23,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link <?php if($page=='About'){echo 'active';}?>" href="about">About Us</a>
+                    <a class="nav-link" href="about">About Us</a>
                 </li>
 
                 <li class="nav-item dropdown dropdown-hover">
@@ -32,13 +32,13 @@
                         <div class="row g-0">
                             <div class="col-6">
                                 <div class="p-4">
-                                    <a class="dropdown-item" href="about.html">Social Media Marketing</a>
-                                    <a class="dropdown-item" href="blog-listing.html">Public & Corporate Relations</a>
-                                    <a class="dropdown-item" href="pricing.html">Web Design/Development</a>
-                                    <a class="dropdown-item" href="blog-post.html">Branding And Advertising</a>
-                                    <a class="dropdown-item" href="faq.html">Brand Activation</a>
-                                    <a class="dropdown-item" href="terms.html">Email Marketing</a>
-                                    <a class="dropdown-item active" href="services.html">Content Creation</a>
+                                    <a class="dropdown-item <?php if($page=='Social'){echo 'active';}?>" href="social-media-marketing">Social Media Marketing</a>
+                                    <a class="dropdown-item <?php if($page=='Public'){echo 'active';}?>" href="blog-listing.html">Public & Corporate Relations</a>
+                                    <a class="dropdown-item <?php if($page=='Web'){echo 'active';}?>" href="pricing.html">Web Design/Development</a>
+                                    <a class="dropdown-item <?php if($page=='Branding'){echo 'active';}?>" href="blog-post.html">Branding And Advertising</a>
+                                    <a class="dropdown-item <?php if($page=='Brand'){echo 'active';}?>" href="faq.html">Brand Activation</a>
+                                    <a class="dropdown-item <?php if($page=='Email'){echo 'active';}?>" href="terms.html">Email Marketing</a>
+                                    <a class="dropdown-item <?php if($page=='Content'){echo 'active';}?>" href="services.html">Content Creation</a>
                                 </div>
                             </div>
                             <div class="col-12">
