@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="assets/css/styles.css" />
     <link rel="stylesheet" href="assets/font/stylesheet.css" />
 
-    <title>Virtuosic Agency&trade; :: Digital Marketing Agency</title></head>
+    <title>Virtuosic Agency&trade; :: Digital Marketing Agency</title>
+</head>
 
 <body>

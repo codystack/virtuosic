@@ -1,6 +1,7 @@
 <?php
 include "./components/header.php";
 include "./components/navbarlight.php";
+require_once "./auth/quote.php";
 ?>
 
 <section class="py-15 py-xl-20 border-top">
@@ -10,7 +11,7 @@ include "./components/navbarlight.php";
           <h2>Let's make something big. <span class="d-block">Together.</span></h2>
         </div>
         <div class="col-lg-8">
-          <form action="#" class="row g-3">
+          <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" class="row g-3">
             <div class="col-md-6">
               <label for="firstName" class="form-label">First Name</label>
               <input type="text" class="form-control" required name="firstName" placeholder="First Name">
@@ -89,20 +90,20 @@ include "./components/navbarlight.php";
             </div>
             <div class="col-md-12">
               <label for="comment" class="form-label">Any comments?</label>
-              <textarea class="form-control" required name="comment" rows="3" placeholder="Any comments?"></textarea>
+              <textarea class="form-control" required name="anyComment" rows="3" placeholder="Any comments?"></textarea>
             </div>
             <div class="col-md-8">
               <div class="form-check">
                 <input class="form-check-input" required type="checkbox" id="gridCheck">
                 <label class="form-check-label text-muted small" for="gridCheck">
-                  I accept the <a href="" class="underline">Terms
+                  I accept the <a href="terms" class="underline">Terms
                     & Conditions</a> and acknowledge that my information will be used in accordance with Privacy
                   Policy.
                 </label>
               </div>
             </div>
             <div class="col-md-12 d-grid">
-              <a href="" class="btn btn-block btn-black">Request Quote</a>
+              <button type="submit" name="quote_request_btn" class="btn btn-block btn-black">Request Quote</button>
             </div>
           </form>
         </div>
