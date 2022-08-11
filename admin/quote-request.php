@@ -78,7 +78,7 @@ require_once '../auth/profile.php';
                                                         $quote_id++;
                                                         }
                                                     }else {
-                                                        echo "<td><p>No Transactions Yet!</p></td>";
+                                                        echo "<td><p>No Requests Yet!</p></td>";
                                                     }
                                                     ?>
                                                     </tbody>
