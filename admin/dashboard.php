@@ -40,6 +40,19 @@ require_once '../auth/account.php';
                                         aria-labelledby="component-1-1-tab">
                                         <div class="row g-3 g-xl-5">
                                             <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
+                                                <a href="dev-quote-request" class="card equal-md-4-3 card-hover-border bg-white">
+                                                    <div class="card-wrap text-center">
+                                                        <div class="card-header pb-0">
+                                                            <img src="../assets/images/quote.svg" alt="Logo" class="mb-2 w-40">
+                                                        </div>
+                                                        <div class="card-footer pt-0 mt-auto">
+                                                            <h4 class="card-title fw-light">Web Design Quote</h4>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                            <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
                                                 <a href="quote-request" class="card equal-md-4-3 card-hover-border bg-white">
                                                     <div class="card-wrap text-center">
                                                         <div class="card-header pb-0">
